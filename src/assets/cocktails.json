@@ -1,0 +1,17 @@
+[
+    {
+        "id": 10,
+        "name": "Sex on the beach",
+        "img": "relative-path-to-the-picture"
+    },
+    {
+        "id": 13,
+        "name": "Marguarita",
+        "img": "relative-path-to-the-picture"
+    },
+    {
+        "id": 8,
+        "name": "Martini",
+        "img": "relative-path-to-the-picture"
+    }
+]
